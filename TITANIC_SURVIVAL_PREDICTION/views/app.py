@@ -28,7 +28,7 @@ class web_app:
     st.divider(width=900)
     st.caption(":blue[For more background details, check out the official [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset).]",text_alignment='center')
     st.divider(width=900)
-    st.caption(":rainbow['Get the Github repo at [Github](https://github.com/agastyashah96-ops/TITANIC_SURVIVAL_PREDICTOR')]")
+    st.caption(":rainbow['Get the Github repo at [Github](https://github.com/agastyashah96-ops/TITANIC_SURVIVAL_PREDICTOR')]", text_alignment='center')
     st.header(':violet[Alternatively you can also download the data set through this code]')
     st.code("""import kagglehub
 
